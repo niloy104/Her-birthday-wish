@@ -12,7 +12,7 @@ This repo contains a poetic message and a short, customizable workflow for turni
 
 ---
 
-## A Poetic Note (short)
+## A Note
 
 > In quiet loops and moonlit lines, your name became my prime,
 > A constant in my runtime, elegant, exact, sublime.
