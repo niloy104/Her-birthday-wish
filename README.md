@@ -1,6 +1,6 @@
 # Her Birthday Wish
 
-A refined, intellectual way to wish someone a happy birthday, code-first, heart-forward.
+A nerdy way to wish birthday for someone special.
 
 ---
 
@@ -16,7 +16,7 @@ This repo contains a poetic message and a short, customizable workflow for turni
 
 > In quiet loops and moonlit lines, your name became my prime,
 > A constant in my runtime, elegant, exact, sublime.
-> I packaged up a promise, compiled it with a smile —
+> I packaged up a promise, compiled it with a smile
 > May your days be bug-free, and your joy run another mile.
 
 ---
@@ -29,22 +29,15 @@ This repo contains a poetic message and a short, customizable workflow for turni
 
 ---
 
-## How to use (short & cool)
+## How to use
 
 1. Clone the repo:
 
    git clone https://github.com/niloy104/Her-birthday-wish.git
 
-2. Personalize the message:
-   - Edit `README.md` or create `message.txt` and write your lines.
-   - Keep it simple — one or two stanzas plus a short sign-off works best.
+2. run it:
+   - Run `index.html` file with any broswer or code editor
 
-
-4. Commit & push when you're happy:
-
-   git add README.md message.txt
-   git commit -m "Personalize birthday wish"
-   git push
 
 ---
 
